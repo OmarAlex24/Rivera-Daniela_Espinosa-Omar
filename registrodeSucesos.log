@@ -1,0 +1,42 @@
+[2024-05-16 19:09:36] [ WARN ] [BD:45] Syntax error in SQL statement "CREATE TABLE ODONTOLOGOS (MATRICULA INT PRIMARY KEY NOT NULL, NOMBRE VARCHAR(100) NOT NULL, APELLIDO VARCHAR(100) [*]NOTNULL)"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE ODONTOLOGOS (MATRICULA INT PRIMARY KEY NOT NULL, NOMBRE VARCHAR(100) NOT NULL, APELLIDO VARCHAR(100) NOTNULL) [42001-224]
+[2024-05-16 19:09:36] [ WARN ] [OdontologoDAOH2:39] Table "ODONTOLOGOS" not found; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?,?,?) [42102-224]
+[2024-05-16 19:09:36] [ WARN ] [OdontologoDAOH2:76] Table "ODONTOLOGOS" not found; SQL statement:
+SELECT * FROM ODONTOLOGOS [42102-224]
+[2024-05-16 19:10:42] [ INFO ] [BD:42] Tabla creada con exito y datos insertados con exito!
+[2024-05-16 19:10:42] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:10:42] [ WARN ] [OdontologoDAOH2:76] No data is available [2000-224]
+[2024-05-16 19:11:49] [ INFO ] [BD:42] Tabla creada con exito y datos insertados con exito!
+[2024-05-16 19:11:49] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:11:49] [ WARN ] [OdontologoDAOH2:76] No data is available [2000-224]Hola
+[2024-05-16 19:14:15] [ INFO ] [BD:42] Tabla creada con exito y datos insertados con exito!
+[2024-05-16 19:14:15] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:14:48] [ INFO ] [BD:42] Tabla creada con exito y datos insertados con exito!
+[2024-05-16 19:14:48] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:04] [ INFO ] [BD:39] Tabla creada con exito y datos insertados con exito!
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOList:21] Se inserto correctamente el odontologo en la lista
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOList:21] Se inserto correctamente el odontologo en la lista
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOH2:73] Devolviendo lista BD
+[2024-05-16 19:40:04] [ INFO ] [OdontologoDAOList:43] Devolviendo lista
+[2024-05-16 19:40:58] [ INFO ] [BD:39] Tabla creada con exito!
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOList:15] Lista creada con exito!
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOList:22] Se inserto correctamente el odontologo en la lista
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOList:22] Se inserto correctamente el odontologo en la lista
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOH2:73] Devolviendo lista BD
+[2024-05-16 19:40:58] [ INFO ] [OdontologoDAOList:44] Devolviendo lista
+[2024-05-16 19:43:37] [ INFO ] [BD:39] Tabla creada con exito!
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOList:15] Lista creada con exito!
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOH2:36] Se inserto correctamente el odontologo en la BD
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOList:22] Se inserto correctamente el odontologo en la lista
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOList:22] Se inserto correctamente el odontologo en la lista
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOH2:73] Devolviendo lista BD
+[2024-05-16 19:43:37] [ INFO ] [OdontologoDAOList:44] Devolviendo lista
